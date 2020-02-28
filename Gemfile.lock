@@ -438,7 +438,7 @@ GEM
       premailer (~> 1.7, >= 1.7.9)
     progressbar (1.8.2)
     public_suffix (2.0.5)
-    puma (3.7.1)
+    puma (3.12.3)
     rack (2.0.1)
     rack-cors (0.4.1)
     rack-host-redirect (1.2.1)
